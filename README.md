@@ -1,5 +1,7 @@
 # Wind Forecast Monitor 🌬️
 
+**🔴 Live Demo:** [https://wind-dashboard-zeta.vercel.app/](https://wind-dashboard-zeta.vercel.app/)
+
 A premium forecast monitoring dashboard for **UK national wind power generation** (January 2024). Compare actual wind generation against forecasted values with configurable forecast horizons, interactive date ranges, and comprehensive error statistics.
 
 > **AI Tools Disclosure**: This project was built with assistance from AI coding tools.
