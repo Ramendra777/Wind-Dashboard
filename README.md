@@ -142,7 +142,3 @@ Example: For target time `24/05/24 18:00` with a 4-hour horizon, only forecasts 
 - **Analysis**: Python, pandas, numpy, matplotlib
 
 ---
-
-## License
-
-MIT
